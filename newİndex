@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Car Sale </title>
+    <link rel="stylesheet" href="CSS/kodluyoruz.css">
+    <link rel="stylesheet" href="css/hakkımızda.css">
+</head>
+<body> 
+    <br>
+        <article> 
+            <h1>SATILIK OLAN ARAÇLARIMIZ</h1>
+            <h2>----FİYATI DÜŞENLER----</h2>
+            <p>Mercedes 2019 </p>
+            <p>HATASIZ BOYASIZ</p>
+            <p>arac istanbulda</p>
+            <img height="250" src="https://ia.tmgrup.com.tr/6058fc/628/422/0/0/800/538?u=https://i.tmgrup.com.tr/otohaber/2022/04/27/mercedes-amg-c43-4matic-yollara-cikmaya-hazir-1651056435812.jpg" alt="mercedes amg ">
+        </article>
+        <article>
+            <br>
+            <h1>BOYASIZ ARABALAR</h1>
+            <h2>----PASSAT----</h2>
+            <p>aracta hata boya yoktur</p>
+            <p>2018 modeldir</p>
+            <p>araç adanada</p>
+            <img height="250" src="https://i.gremicdn.pl/image/free/9b4b8036f03db69805f937dc4af1851f/?t=resize:fill:1200:716,enlarge:1" alt="volkswogen Passat 1.6 TDİ">
+        </article> 
+        <br>  
+        <a href ="css/hakkımızda.html">  HAKKIMIZDA
+        </a>
+    </body>
+</html>
